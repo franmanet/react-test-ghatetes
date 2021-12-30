@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ff09d6e5e29890400fdb",
-    "url": "/react-test-ghatetes/static/css/main.7e064333.chunk.css"
+    "revision": "a1e801212dd4d387a582",
+    "url": "/react-test-ghatetes/static/css/main.6669bd90.chunk.css"
   },
   {
-    "revision": "ff09d6e5e29890400fdb",
-    "url": "/react-test-ghatetes/static/js/main.9ab303c5.chunk.js"
+    "revision": "a1e801212dd4d387a582",
+    "url": "/react-test-ghatetes/static/js/main.4a08c194.chunk.js"
   },
   {
     "revision": "8b710960f32ebf3e259f",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react-test-ghatetes/static/js/2.3be7df77.chunk.js"
   },
   {
-    "revision": "4bbfd49aea48aa2849e32dd464a3c207",
+    "revision": "7a09a57c3d0afd0626112255b6657dbd",
     "url": "/react-test-ghatetes/index.html"
   }
 ];
