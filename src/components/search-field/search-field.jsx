@@ -1,4 +1,4 @@
-import react from "react";
+import React from "react";
 
 import './search-field.css';
 
@@ -7,5 +7,5 @@ export const SearchField = (props) => (
            className='search'
            type='search'
            placeholder= {props.placeholder}
-           onChange={ props.handleChange } /> 
+           onChange={ props.handleChange} /> 
 )
