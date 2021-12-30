@@ -9,5 +9,6 @@
 @media (max-width: 600px) {
     .card-list {
         grid-template-columns: 1fr 1fr;
+        width: 90%;
     }
 }

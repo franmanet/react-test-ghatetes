@@ -28,7 +28,7 @@ class App extends React.Component {
 
     return (
       <div className="App">
-        <h1>Hai que luchar</h1>
+        <img src='mmason.jpg' />
 
         <SearchField 
            placeholder='Bucar gatete...'
